@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#1B5E20"/>
+  <circle cx="32" cy="32" r="24" fill="#FFD700"/>
+  <path d="M32 16L34.18 25.52L44 28L34.18 38.48L32 48L29.82 38.48L20 28L29.82 25.52L32 16Z" fill="#1B5E20"/>
+  <text x="32" y="36" text-anchor="middle" fill="#1B5E20" font-family="Arial, sans-serif" font-size="8" font-weight="bold">₦</text>
+</svg>
